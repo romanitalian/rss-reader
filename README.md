@@ -11,6 +11,11 @@ A simple RSS feed reader application written in Go using the Fyne framework for 
 - Mark articles as read
 - Automatically save added feeds
 
+
+## Screenshots
+
+![RSS Reader Application Screenshot](docs/screenshots/Screenshot-01.png)
+
 ## Requirements
 
 - Go 1.16 or higher
